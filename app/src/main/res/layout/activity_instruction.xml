@@ -22,8 +22,8 @@
             android:layout_height="wrap_content"
             android:text="Select correct start and end address to get instructions..."
             android:id="@+id/tv_inst"
-            android:textColor="#000"
-            android:textSize="15dp"/>
+            android:textColor="#f00"
+            android:textSize="20dp"/>
 
 
 </LinearLayout>
